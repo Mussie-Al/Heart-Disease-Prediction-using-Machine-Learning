@@ -1,9 +1,9 @@
 # Heart-Disease-Prediction-using-Machine-Learning
-This project focuses on building a predictive model to identify the likelihood of heart disease in patients using supervised classification algorithms. The project evaluates three machine learning models — Logistic Regression, Random Forest, and Gradient Boosting — with a focus on recall as the key performance metric, ensuring that actual positive cases (patients with heart disease) are not missed.
+This project focuses on building a predictive model to identify the likelihood of heart disease in patients using supervised classification algorithms. The project evaluates three machine learning models (Logistic Regression, Random Forest, and Gradient Boosting), with a focus on recall as the key performance metric, ensuring that actual positive cases (patients with heart disease) are not missed.
 
 # Objectives
-•	To preprocess and analyze heart disease patient data.
-•	To build predictive models using classification techniques.
+•	To preprocess and analyze heart disease patient data./
+•	To build predictive models using classification techniques.\
 •	To evaluate models primarily based on recall, and secondarily on accuracy and F1-score.
 •	To identify the best-performing model for early heart disease detection.
 

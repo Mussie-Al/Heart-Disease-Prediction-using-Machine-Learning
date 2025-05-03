@@ -31,8 +31,3 @@ Cleaned_heart_disease_dataset.csv: Cleaned version of the dataset (ready to use)
 unseen_heart_disease_dataset (test).csv: an unseen dataset to test the model. Apart from the test set from the dataset.\
 README.md: This file, providing an overview of the project.\
 
-# How to run
-Clone this repository.\
-git clone https://github.com/Mussie-Al/heart-disease-prediction.git
-cd heart-disease-prediction
-

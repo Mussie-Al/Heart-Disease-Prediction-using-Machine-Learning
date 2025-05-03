@@ -29,5 +29,5 @@ ML_Heart_Disease_prediction.ipynb: Jupyter notebook containing all the data expl
 Heart_disease_dataset.csv: CSV file containing the heart disease data (raw).\
 Cleaned_heart_disease_dataset.csv: Cleaned version of the dataset (ready to use).\
 unseen_heart_disease_dataset (test).csv: an unseen dataset to test the model. Apart from the test set from the dataset.\
-README.md: This file, providing an overview of the project.\
+README.md: This file, providing an overview of the project.
 
